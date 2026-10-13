@@ -1,0 +1,6 @@
+PRODUCT_BUNDLE_IDENTIFIER = com.privarcamdet.app
+DEVELOPMENT_TEAM =
+PRIVAR_PRODUCT_ID = com.privar.weekly
+PRIVAR_PRIVACY_URL = https://sites.google.com/view/privar-detect/privacy-policy
+PRIVAR_TERMS_URL = https://sites.google.com/view/privar-detect/terms-of-use
+PRIVAR_APP_STORE_URL = https://apps.apple.com/app/id6822311402

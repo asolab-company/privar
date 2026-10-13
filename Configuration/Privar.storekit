@@ -1,0 +1,59 @@
+{
+  "identifier": "3D13F43E-5F6A-4926-B511-3BB147E59C6A",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "",
+    "_developerTeamID": "",
+    "_failTransactionsEnabled": false,
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": [],
+    "_timeRate": 0
+  },
+  "subscriptionGroups": [
+    {
+      "id": "10000001",
+      "localizations": [
+        {
+          "description": "Unlimited Privar scanning",
+          "displayName": "Privar Premium",
+          "locale": "en_US"
+        }
+      ],
+      "name": "Privar Premium",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "9.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "10000002",
+          "introductoryOffer": {
+            "internalID": "10000003",
+            "paymentMode": "free",
+            "subscriptionPeriod": "P3D",
+            "numberOfPeriods": 1
+          },
+          "localizations": [
+            {
+              "description": "Unlimited Bluetooth, camera and magnetic field inspections.",
+              "displayName": "Privar Weekly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.privar.weekly",
+          "recurringSubscriptionPeriod": "P1W",
+          "referenceName": "Privar Weekly",
+          "subscriptionGroupID": "10000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
