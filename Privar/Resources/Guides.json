@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Camera",
+    "title": "How to Find a Hidden Camera",
+    "navigationTitle": "How to Find a Hidden Camera",
+    "summary": "Learn simple ways to inspect your surroundings and spot objects that may contain a hidden camera.",
+    "body": "How to Find a Hidden Camera\nHidden cameras can be small and difficult to notice. A careful visual inspection combined with Privar’s scanning tools can help you identify objects that may require a closer look.\n\nStart With a Visual Check\nSlowly inspect the room and look for objects that seem unusual, recently moved, or positioned with a clear view of the room.\nPay extra attention to small holes, dark openings, reflective surfaces, or objects that appear out of place.\n\nCheck Common Hiding Places\nHidden cameras may be concealed inside everyday objects. Take a closer look at:\nSmoke detectors and ceiling devices\nClocks and alarm clocks\nChargers and power adapters\nLamps and light fixtures\nBooks and objects on shelves\nPicture frames and decorations\nTVs, speakers and other electronics\nToys and stuffed animals\n\nLook for a Camera Lens\nCamera lenses can produce a small reflection when exposed to light. Dim the room and slowly shine a flashlight across suspicious objects from different angles.\nA tiny, unusual reflection may be worth inspecting more closely.\n\nScan the Room\nUse Hidden Camera Scanner in Privar and slowly move your phone around the room.\nCheck suspicious objects from several angles and save a photo if you find something you want to review later.\n\nCheck Nearby Devices\nSome cameras use Bluetooth or other wireless connections. Use Bluetooth Scanner to review unfamiliar devices detected nearby.\nKeep in mind that an unknown Bluetooth device does not necessarily mean a hidden camera is present.\n\nIf Something Looks Suspicious\nAvoid immediately touching or removing an unfamiliar device. Take a photo, note its location, and consider contacting the property owner, hotel management, or appropriate local authorities if necessary.\n\nRemember\nNo scan can guarantee that a room is completely free of hidden cameras.\nCombining digital scanning with a careful physical inspection can help you make a more informed assessment of your surroundings.",
+    "image": "articleCamera",
+    "thumbnail": "guideCamera"
+  },
+  {
+    "id": "Suspicious",
+    "title": "What to Do If You Find a Suspicious Device",
+    "navigationTitle": "Find a Suspicious Device",
+    "summary": "Learn practical steps to document, avoid disturbing, and appropriately report a device.",
+    "body": "What to Do If You Find a Suspicious Device\nFound something unusual? Stay calm and avoid disturbing the device until you know what it is.\n\nDocument It\nTake a photo and note where the device was found. You can save suspicious objects in Privar for later review.\n\nDon’t Touch It\nAvoid unplugging, opening, moving, or damaging an unfamiliar device.\n\nVerify First\nNot every unusual object is a hidden camera or listening device. Check the device carefully before drawing conclusions.\n\nReport It\nIf you believe the device may violate your privacy, contact the property manager, hotel staff, or appropriate local authorities.\n\nRemember\nDocument first, investigate carefully, and avoid making assumptions.",
+    "image": "articleSuspicious",
+    "thumbnail": "guideSuspicious"
+  },
+  {
+    "id": "Listening",
+    "title": "How to Check a Room for Listening Devices",
+    "navigationTitle": "How to Check a Room…",
+    "summary": "Learn what objects and locations to inspect when looking for potential listening devices.",
+    "body": "How to Check a Room for Listening Devices\nListening devices can be small and hidden inside ordinary objects. A quick inspection can help you spot anything unusual.\n\nCheck Common Places\nPay attention to:\nChargers and power adapters\nClocks and speakers\nSmoke detectors\nLamps and electronics\nObjects on shelves\nUnfamiliar devices\n\nLook for Warning Signs\nWatch for tiny holes, unexpected wires, indicator lights, or electronic objects that seem out of place.\n\nScan Nearby Devices\nUse Signals Scanner in Privar to check for unknown nearby Bluetooth devices and unusual signals.\n\nRemember\nSome listening devices may not emit detectable wireless signals, so always combine scanning with a visual inspection.",
+    "image": "articleListening",
+    "thumbnail": "guideListening"
+  },
+  {
+    "id": "Bluetooth",
+    "title": "Understanding Unknown Bluetooth Devices",
+    "navigationTitle": "Unknown Bluetooth Devices",
+    "summary": "Find out why unfamiliar Bluetooth devices may appear nearby and what you should check.",
+    "body": "Understanding Unknown Bluetooth Devices\nSeeing an unfamiliar Bluetooth device nearby doesn’t always mean there’s a privacy threat. Many everyday devices use Bluetooth in the background.\n\nWhat Could It Be?\nUnknown devices may include:\nHeadphones and speakers\nSmartwatches and trackers\nTVs and smart home devices\nNearby phones or computers\nOther Bluetooth accessories\n\nCheck the Signal\nA stronger signal can indicate that the device is nearby. Move around the room and watch how the signal strength changes.\nDon’t Recognize It?\n\nUse Bluetooth Scanner in Privar to review the device details and mark it as Known, Unknown, or Suspicious.\n\nRemember\nUnknown doesn’t always mean dangerous. Check your surroundings and device details before considering it a potential privacy risk.",
+    "image": "articleBluetooth",
+    "thumbnail": "guideBluetooth"
+  }
+]
