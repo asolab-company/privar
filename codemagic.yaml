@@ -34,6 +34,11 @@ workflows:
         script: |
           xcode-project use-profiles --project "Privar.xcodeproj"
 
+      - name: Increment build number
+        script: |
+          # Автоматично збільшуємо номер збірки на +1 за номером білду Codemagic
+          agvtool new-version -all $BUILD_NUMBER
+
       - name: Build iOS ipa
         script: |
           xcode-project build-ipa \
