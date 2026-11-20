@@ -18,7 +18,7 @@ struct PermissionView: View {
         width: 150, height: 150
       ).position(x: w / 2, y: 341)
       DesignText(
-        text: mode == .bluetooth ? "Allow Bluetooth Access" : "Allow Camera Access", size: 24,
+        text: mode == .bluetooth ? "Enable Bluetooth" : "Enable Camera", size: 24,
         weight: .bold, width: w - 38, centered: true
       ).offset(x: 19, y: 439)
       DesignText(
