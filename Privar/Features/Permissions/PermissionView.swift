@@ -27,7 +27,7 @@ struct PermissionView: View {
           : "Privar needs access to your camera to scan your surroundings and help detect potential hidden cameras.",
         width: min(mode == .bluetooth ? 291 : 341, w - 52), centered: true
       ).offset(x: (w - min(mode == .bluetooth ? 291 : 341, w - 52)) / 2, y: 475)
-      PrimaryButton(title: "Allow Access") { app.start(mode, authorized: true) }.frame(
+      PrimaryButton(title: "Continue") { app.start(mode, authorized: true) }.frame(
         width: min(264, w - 38)
       ).position(x: w / 2, y: 559)
       ScannerTabBar(selected: mode) { mode in
